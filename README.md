@@ -16,7 +16,7 @@ Number Systems – Positional number systems, Number base conversions
 between binary, octal , decimal and hexadecimal numbers – Unsigned and Signed
 binary number systems.
 Boolean Algebra : Basic definitions, theorems and properties of Boolean Algebra
-- Boolean functions – canonical and standard forms –Digital logic gates –
+Boolean functions – canonical and standard forms –Digital logic gates –
 Introduction to digital logic families (RTL , TTL,ECL and CML)
 
 
