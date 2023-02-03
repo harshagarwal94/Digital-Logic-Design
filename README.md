@@ -66,7 +66,7 @@ and Modules, Gate Level Modeling, Operators, Data Flow Modeling, Behavioral
 level Modeling, Testbench.
 Modeling of Combinational and Sequential Logic Circuits using Verilog HDL.
 
-
+```
 
 
 
