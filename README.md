@@ -7,7 +7,7 @@ Digital Logic Design is a 4 credit course taught in Btech at VIT (Vellore Instit
 #Overview
 
 
-```
+
 (1)
 
 
@@ -66,10 +66,12 @@ and Modules, Gate Level Modeling, Operators, Data Flow Modeling, Behavioral
 level Modeling, Testbench.
 Modeling of Combinational and Sequential Logic Circuits using Verilog HDL.
 
-```
+
 
 
 
 # Disclaimer
+```
 * For Educational Purpose 
 * harshagarwal94/Digital-Logic-Design is MIT Licensed 
+```
