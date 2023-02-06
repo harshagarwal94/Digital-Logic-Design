@@ -93,5 +93,5 @@ Similarly, please proceed for 4,5,6,7..
 # Disclaimer
 ```
 * For Educational Purpose 
-* harshagarwal94/Digital-Logic-Design is MIT Licensed 
+* harshagarwal94/Digital-Logic-Design is Open Source Licensed 
 ```
